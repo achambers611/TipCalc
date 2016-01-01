@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap]
 
-http://i.imgur.com/rrH3dnM.gif
+<img src="http://i.imgur.com/8I5cSHa.gif" width="250">
 
 ## Notes
 
